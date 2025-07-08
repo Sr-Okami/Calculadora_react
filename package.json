@@ -1,0 +1,23 @@
+{
+  "name": "calculadora",
+  "version": "0.1.0",
+  "type": "module",
+  "author": "Matheus",
+  "description": "Calculadora simples feita com React e JavaScript.",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "preview": "vite preview",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "vite": "^6.2.0"
+  }
+}
