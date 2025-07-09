@@ -1,6 +1,6 @@
 {
   "name": "calculadora",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "type": "module",
   "author": "Matheus",
   "description": "Calculadora simples feita com React e JavaScript.",
@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
+    "mathjs": "^14.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwindcss": "^4.1.11"
